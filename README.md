@@ -2,7 +2,7 @@
 
 A multivariate statistical experiment analysis in Python (`pingouin`, `pandas`, `seaborn`) evaluating the interaction effects between dynamic pricing models and checkout UX layouts on net margin per order.
 
-[English Version](#english-version) | [Русская версия](#russian-version)
+[English Version](#english-version)
 
 ---
 
